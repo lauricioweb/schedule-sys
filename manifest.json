@@ -1,0 +1,13 @@
+{
+    "version": "0.0.65",
+    "commit": {
+        "sha": "",
+        "date": ""
+    },
+    "ignoreOnUpdate": [
+        "app",
+        "pages",
+        "modules",
+        "src"
+    ]
+}

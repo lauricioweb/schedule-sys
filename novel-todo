@@ -1,0 +1,7 @@
+# aprendendo novel
+
+=1 Integrar banco de dados
+-criar tabelas e bancos (erro ao execultar comando php novel database up --create);
+
+=2 estrutura de pastas
+-entender como funciona o rodape statico;

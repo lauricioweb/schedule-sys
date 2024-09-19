@@ -1,0 +1,11 @@
+tbcontatos: # Melhor horário para contato (Obs: Três possibilidades por dia)
+  ctt_id: id
+  ctt_name: str # De
+  ctt_email: str # Até
+  ctt_contact: str
+  ctt_sex: str
+  ctt_date_born: date
+  ctt_favorite: int
+  ctt_adress: str
+  ctt_picture: str
+  ctt_status: int

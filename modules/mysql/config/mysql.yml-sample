@@ -1,0 +1,12 @@
+#································
+# Database settings
+#································
+MYSQL:
+  "main":
+    PORT: 3306
+    NAME: <ENV.MYSQL_DBNAME>
+    HOST: <ENV.MYSQL_HOST>
+    USER: <ENV.MYSQL_USER>
+    PASS: <ENV.MYSQL_PASS>
+    PREF: bp_ # TABLES PREFIX
+    #PATH: [app/database/main] # OPTIONAL. SPECIFIC PATH. MULTI WITH ",".
